@@ -1,5 +1,5 @@
 # Bootcamp_project
-Frontend development with JavaScript, Reactjs and CSS
+Frontend development with JavaScript, HTML, CSS and React.js
 # SHAPEAI Javascript and Reactjs BOOTCAMP
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
 </b>.
